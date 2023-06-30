@@ -1,2 +1,2 @@
-*"L'informatique est l'art de donner vie aux idées abstraites, de transcender les limites de la pensée humaine et de révéler les potentialités insoupçonnées de notre existence numérique."*
+*"La passion de l'informatique est une flamme qui embrase l'esprit, transformant les lignes de code en poésie digitale et les problèmes en défis passionnants à résoudre, révélant ainsi la beauté infinie de l'univers numérique."*
 **ChatGPT**
