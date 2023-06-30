@@ -1,5 +1,2 @@
-"Plongez dans l'univers infini du code, où les lignes s'entrelacent pour donner vie à des applications innovantes et révolutionnaires. Préparez-vous à être émerveillés par la puissance du langage des machines."
-
-
-
-#GH-DARK-MODE-ONLY
+* "L'informatique est l'art de donner vie aux idées abstraites, de transcender les limites de la pensée humaine et de révéler les potentialités insoupçonnées de notre existence numérique." *
+** IA ChatGPT **
