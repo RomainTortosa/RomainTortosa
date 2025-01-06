@@ -8,7 +8,7 @@
 
 ## 🚀 À propos de moi
 
-Mon histoire avec l'informatique a commencé comme un jeu d'adolescent. Aujourd'hui devenue vocation, elle me fait passer des petits programmes de chambre à la gestion de grands projets, avec toujours la même passion des premiers jours.
+Mon histoire avec l'informatique a commencé à l'adolescence. C'était comme un jeu. Aujourd'hui devenue vocation, elle m'a fait passer des petits programmes dans ma chambre à la gestion de grands projets, avec toujours la même passion des premiers jours.
 
 ## 💻 Technologies & Outils
 
