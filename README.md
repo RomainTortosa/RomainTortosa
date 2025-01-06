@@ -8,7 +8,7 @@
 
 ## 🚀 À propos de moi
 
-L'informatique est entrée dans ma vie d'adolescent comme un jeu, elle est devenue ma vocation. De la création de petits programmes dans ma chambre à la gestion de projets d'envergure, j'ai vu ma passion pour l'informatique grandir tout en développant une profonde compréhension des besoins métiers. Je souhaite aujourd'hui mettre cette expertise au service de votre transformation numérique.
+L'informatique est entrée dans ma vie d'adolescent comme un jeu, elle est devenue ma vocation. De la création de petits programmes dans ma chambre à la gestion de projets d'envergure, cette aventure continue de me passionner chaque jour avec le même enthousiasme qu'au début à chaque nouveaux défis relevés.
 
 ## 💻 Technologies & Outils
 
