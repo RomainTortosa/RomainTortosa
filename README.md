@@ -8,7 +8,7 @@
 
 ## 🚀 À propos de moi
 
-L'informatique est entrée dans ma vie d'adolescent comme un jeu, elle est devenue ma vocation. De la création de petits programmes dans ma chambre à la gestion de projets d'envergure, cette aventure continue de me passionner chaque jour avec le même enthousiasme qu'au début à chaque nouveaux défis relevés.
+Mon histoire avec l'informatique a commencé comme un jeu d'adolescent. Aujourd'hui devenue vocation, elle me fait passer des petits programmes de chambre à la gestion de grands projets, avec toujours la même passion des premiers jours.
 
 ## 💻 Technologies & Outils
 
