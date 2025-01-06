@@ -1,7 +1,7 @@
 # 👋 Romain TORTOSA
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](VOTRE_SITE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/romain-tortosa/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-tortosa/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](VOTRE_CODEPEN)
 [![CV](https://img.shields.io/badge/-CV-4285F4?style=flat&logo=googledrive&logoColor=white)](LIEN_VERS_VOTRE_CV)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:VOTRE_EMAIL)
