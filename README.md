@@ -19,7 +19,7 @@ L'informatique est entrée dans ma vie d'adolescent comme un jeu, elle est deven
 
 ## 📈 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=RomainTortosa&show_icons=true&theme=radical)
 
 ## 🎯 Projets phares
 
