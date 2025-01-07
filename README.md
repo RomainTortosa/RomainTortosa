@@ -42,8 +42,8 @@ Description courte du projet, technologies utilisées et impact réalisé.
 N'hésitez pas à me contacter pour des collaborations ou des opportunités professionnelles !
 
 - 📧 Email : romain.tortosa@gmail.com
-- 💼 LinkedIn : [Votre Profil](https://www.linkedin.com/in/romain-tortosa)
-- 🌐 Site web : [votre-site.com](https://romaintortosa.com)
+- 💼 LinkedIn : [romain_tortosa](https://www.linkedin.com/in/romain-tortosa)
+- 🌐 Site web : [romaintortosa.com](https://romaintortosa.com)
 
 ---
 ⭐️ From [Romain TORTOSA](https://github.com/RomainTortosa)
