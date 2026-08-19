@@ -43,7 +43,7 @@ N'hésitez pas à me contacter pour des collaborations ou des opportunités prof
 
 - 📧 Email : romain.tortosa@gmail.com
 - 💼 LinkedIn : [romain-tortosa](https://www.linkedin.com/in/romain-tortosa)
-- 🌐 Site web : [romaintortosa.com](https://romaintortosa.com)
+- 🌐 Site web : [romaintortosa.fr](https://romaintortosa.fr)
 
 ---
 ⭐️ From [Romain TORTOSA](https://github.com/RomainTortosa)
