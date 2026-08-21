@@ -1,6 +1,6 @@
 # 👋 Romain TORTOSA
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://romaintortosa.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://romaintortosa.fr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-tortosa/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/romain-tortosa)
 [![CV](https://img.shields.io/badge/-CV-4285F4?style=flat&logo=googledrive&logoColor=white)](https://rtortosa.fr)
