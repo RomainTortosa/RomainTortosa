@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-title.svg" width="850">
+<img src="./assets/hero-title.svg" width="650">
 
 </div>
 
