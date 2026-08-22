@@ -9,7 +9,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-romaintortosa.fr-11537F?style=for-the-badge)](https://romaintortosa.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-@TON_USERNAME-1A1A2E?style=for-the-badge\&logo=github)](https://github.com/TON_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-@RomainTortosa-1A1A2E?style=for-the-badge\&logo=github)](https://github.com/RomainTortosa)
 [![Email](https://img.shields.io/badge/Contact-rt%40romaintortosa.fr-278843?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rt@romaintortosa.fr)
 
 </div>
