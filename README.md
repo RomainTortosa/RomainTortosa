@@ -4,7 +4,11 @@
 
 # 👋 Salut, moi c'est **Romain Tortosa**
 
-### Je transforme des **problèmes techniques** en solutions concrètes.
+<div align="center">
+
+<img src="./assets/hero-title.svg" width="850">
+
+</div>
 
 <br>
 
