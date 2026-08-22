@@ -291,8 +291,8 @@ Infrastructure
 <img src="https://img.shields.io/badge/🌐_Portfolio-romaintortosa.fr-11537F?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/TON_USERNAME">
-<img src="https://img.shields.io/badge/💻_GitHub-@TON_USERNAME-1A1A2E?style=for-the-badge&logo=github"/>
+<a href="https://github.com/RomainTortosa">
+<img src="https://img.shields.io/badge/💻_GitHub-@RomainTortosa-1A1A2E?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:rt@romaintortosa.fr">
