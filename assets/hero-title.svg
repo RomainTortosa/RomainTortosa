@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="1200"
-  height="330"
-  viewBox="0 0 1200 330"
+  height="120"
+  viewBox="0 0 1200 120"
   role="img"
   aria-label="Je transforme des problèmes techniques en solutions concrètes."
 >
@@ -19,65 +19,48 @@
     </linearGradient>
   </defs>
 
-  <!-- Ligne 1 -->
   <text
     x="0"
-    y="82"
+    y="70"
     fill="#f3f6f8"
     font-family="Inter, Arial, Helvetica, sans-serif"
-    font-size="64"
+    font-size="42"
     font-weight="700"
-    letter-spacing="-2.5"
+    letter-spacing="-1.5"
   >
     Je transforme des
   </text>
 
-  <!-- Ligne 2 : texte avec dégradé -->
   <text
-    x="0"
-    y="157"
+    x="345"
+    y="70"
     fill="url(#rt-gradient)"
     font-family="Inter, Arial, Helvetica, sans-serif"
-    font-size="64"
+    font-size="42"
     font-weight="700"
-    letter-spacing="-2.5"
+    letter-spacing="-1.5"
   >
     problèmes techniques
   </text>
 
-  <!-- Ligne 3 -->
   <text
-    x="0"
-    y="232"
+    x="765"
+    y="70"
     fill="#f3f6f8"
     font-family="Inter, Arial, Helvetica, sans-serif"
-    font-size="64"
+    font-size="42"
     font-weight="700"
-    letter-spacing="-2.5"
+    letter-spacing="-1.5"
   >
-    en
+    en solutions concrètes.
   </text>
 
-  <!-- "solutions concrètes." -->
-  <text
-    x="112"
-    y="232"
-    fill="#f3f6f8"
-    font-family="Inter, Arial, Helvetica, sans-serif"
-    font-size="64"
-    font-weight="700"
-    letter-spacing="-2.5"
-  >
-    solutions concrètes.
-  </text>
-
-  <!-- Soulignement dégradé -->
   <rect
-    x="112"
-    y="246"
-    width="545"
-    height="3"
-    rx="1.5"
+    x="765"
+    y="80"
+    width="365"
+    height="2"
+    rx="1"
     fill="url(#rt-gradient)"
   />
 </svg>
