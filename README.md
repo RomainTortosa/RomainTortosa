@@ -163,3 +163,10 @@ Dépannage, installation, maintenance, réseau et accompagnement technique.
              │             │             │
              ▼             ▼             ▼
           SERVICES      MONITORING     AUTOMATION
+
+```
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Footer">
+
+</div>
