@@ -1,0 +1,64 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="110"
+  viewBox="0 0 1200 110"
+  role="img"
+  aria-label="Romain Tortosa"
+>
+  <defs>
+    <linearGradient id="rt-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#53aee5"/>
+      <stop offset="100%" stop-color="#59cf79"/>
+    </linearGradient>
+
+    <linearGradient id="rt-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080a0e"/>
+      <stop offset="50%" stop-color="#0e1218"/>
+      <stop offset="100%" stop-color="#080a0e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    width="1200"
+    height="110"
+    rx="18"
+    fill="url(#rt-bg)"
+  />
+
+  <!-- Top gradient -->
+  <rect
+    x="0"
+    y="0"
+    width="1200"
+    height="2"
+    fill="url(#rt-gradient)"
+  />
+
+  <!-- Text -->
+  <text
+    x="600"
+    y="48"
+    text-anchor="middle"
+    fill="#f3f6f8"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="600"
+  >
+    Construire · Automatiser · Simplifier
+  </text>
+
+  <text
+    x="600"
+    y="77"
+    text-anchor="middle"
+    fill="#8d98a6"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-size="12"
+    font-weight="500"
+    letter-spacing="2"
+  >
+    ROMAIN TORTOSA · ROMAINTORTOSA.FR
+  </text>
+</svg>
