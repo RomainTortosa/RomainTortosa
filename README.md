@@ -12,9 +12,18 @@
 
 <br>
 
-## 👋 À propos
+## 👋 À propos - Un profil orienté terrain.
 
-Je suis **Romain Tortosa**, passionné par le développement, les infrastructures et la création de solutions techniques.
+Romain Tortosa
+
+
+Je m'intéresse à tout ce qui se trouve entre le logiciel et le matériel : développement, systèmes, réseaux, automatisation, supervision et conception.
+
+Mon approche est simple : comprendre le problème, construire une solution adaptée et la rendre réellement exploitable au quotidien.
+
+Lorsque c'est pertinent, je privilégie l'auto-hébergement : garder les données sur son propre matériel plutôt que de les disperser chez différents prestataires cloud. L'objectif est de conserver une vraie maîtrise de ses données, sans multiplier les abonnements.
+
+Je privilégie également le matériel reconditionné, dimensionné selon les besoins réels plutôt que systématiquement surdimensionné, ainsi que les solutions open source lorsque leur utilisation est pertinente.
 
 Je développe principalement des applications et des outils autour de :
 
