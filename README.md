@@ -35,7 +35,7 @@ Je développe principalement des applications et des outils autour de :
 - ⚙️ **Automatisation**
 - 🔧 **Outils métier**
 
-> Je préfère comprendre un problème avant de choisir la technologie qui permettra de le résoudre.
+> "Je ne cherche pas systématiquement la solution la plus chère ou la plus récente. Je cherche celle qui répond réellement au besoin."
 
 <br>
 
