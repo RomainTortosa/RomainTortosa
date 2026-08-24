@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.png" width="100%" alt="Romain Tortosa — IT · Software · Infrastructure">
+<img src="./assets/cartevisite.png" width="100%" alt="Romain Tortosa — IT · Software · Infrastructure">
 
 <br>
 
